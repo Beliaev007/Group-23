@@ -5,4 +5,9 @@
 <age>="30"</age>
 <pets>="нет"</pets>
 <salary>="1000"</salary>
+  <favorite movie>="Трудности перевода"/>
+    <favorite series>="Декстер"/>
+      <favorite food>="Пельмени"/>
+        <favorite season>="Лето"/>
+          <favorite country>="Япония"/>
 </root>
